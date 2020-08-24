@@ -3,18 +3,18 @@
   "euro": [
     {
       "polo": "https://raw.githubusercontent.com/atifff/mosika/master/Privacy%20Policy",
-      "poloPRO": "",
-      "nain1": "",
-      "nain2": "",
-      "nain3": "",
-      "nain4": "",
-      "bain1": "",
-      "bain2": "",
+  "poloPRO": "7014495719192033",
+      "nain1": "9808369119",
+      "nain2": "2121450784",
+      "nain3": "4747614121",
+      "nain4": "6060695795",
+      "bain1": "8686859137",
+      "bain2": "2313022471",
       "stor": "https://m.me/Musicappfre",
       "imageurl":"https://wallpapercave.com/wp/wp2070611.jpg",
-      "FAban": "991971601255548_991972507922124",
-      "FAint": "991971601255548_1046647112454663",
-      "isadsFG": "ads"
+      "FAban": "",
+      "FAint": "",
+      "isadsFG": ""
     }
   ],
   "obPhoto": [
@@ -67,7 +67,7 @@
   ],
   "media": [
     {
-      "imageurl":"https://www.iheartradio.ca/image/policy:1.8675448:1547737114/Bryan-Adams.jpg?f=default&$p$f=3187891",
+   "imageurl":"https://www.iheartradio.ca/image/policy:1.8675448:1547737114/Bryan-Adams.jpg?f=default&$p$f=3187891",
       "name":"Bryan Adams Back To You",
       "uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_Back_To_You.mp3"
     },
@@ -218,4 +218,5 @@
     }
   ]
 }
+
 
